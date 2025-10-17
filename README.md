@@ -5,7 +5,7 @@
 🚗 Detecção de Veículos com Visão Computacional
 Um modelo de visão computacional, baseado na arquitetura YOLO, treinado para identificar e localizar veículos em imagens.
 
-<img alt="last-commit" src="https://img.shields.io/github/last-commit/SEU_USUARIO/Visualizacao_carros?style=flat&logo=git&logoColor=white&color=0080ff"> <img alt="repo-top-language" src="https://img.shields.io/github/languages/top/SEU_USUARIO/Visualizacao_carros?style=flat&color=0080ff">
+<img alt="last-commit" src="https://img.shields.io/github/last-commit/theofeitoza/Visualizacao_carros?style=flat&logo=git&logoColor=white&color=0080ff"> <img alt="repo-top-language" src="https://img.shields.io/github/languages/top/theofeitoza/Visualizacao_carros?style=flat&color=0080ff">
 
 <p><em>Tecnologias e Frameworks Utilizados:</em></p> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white"> <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white"> <img alt="YOLO" src="https://img.shields.io/badge/YOLO-00FFFF.svg?style=flat&logo=yolo&logoColor=black"> <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=flat&logo=OpenCV&logoColor=white">
 
@@ -75,8 +75,7 @@ Clone o repositório:
 
 Bash
 
-# SUBSTITUA "SEU_USUARIO" PELO SEU NOME DE USUÁRIO DO GITHUB
-❯ git clone https://github.com/SEU_USUARIO/Visualizacao_carros.git
+❯ git clone https://github.com/theofeitoza/Visualizacao_carros.git
 Navegue até o diretório do projeto:
 
 Bash
