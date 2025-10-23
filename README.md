@@ -102,9 +102,25 @@ Para executar a detecção em uma das imagens de teste ou em uma imagem sua, uti
 ---
 
 ## 🖼️ Exemplos de Detecção
-Abaixo, um exemplo do resultado esperado após a execução do modelo sobre uma imagem de validação.
 
-*(Você pode adicionar a imagem val_batch2_pred.jpg aqui)*
+### Resultado do Modelo em Dados de Validação
+Esta imagem mostra o resultado do modelo (`val_batch2_pred.jpg`), com as caixas delimitadoras (bounding boxes) desenhadas nos veículos detectados.
+<p align="center">
+  <img src="val_batch2_pred.jpg" alt="Exemplo de Detecção" width="70%">
+</p>
+
+### Lote de Dados de Treinamento
+Esta é uma amostra dos dados utilizados para treinar o modelo (`train_batch2.jpg`), já com as anotações.
+<p align="center">
+  <img src="train_batch2.jpg" alt="Dados de Treinamento" width="70%">
+</p>
+
+### Imagens para Teste
+Use as imagens abaixo (e outras no repositório) para testar o script `deteccao.py`.
+<p align="center">
+  <img src="teste5.jpg" alt="Imagem de Teste 5" width="45%">
+  <img src="teste6.jpg" alt="Imagem de Teste 6" width="45%">
+</p>
 
 ---
 
